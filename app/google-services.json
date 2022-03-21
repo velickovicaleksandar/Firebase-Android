@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079444648784",
+    "project_id": "fir-mpip",
+    "storage_bucket": "fir-mpip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079444648784:android:bfcab3827a5ab8af0ff255",
+        "android_client_info": {
+          "package_name": "mk.ukim.finki.firebase_mpip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079444648784-qbmagoein2k1ft87bc9pms4ajsud8otg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARUIjqLVlZyzSOR-lVkWHnsuaa_flV2c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079444648784-qbmagoein2k1ft87bc9pms4ajsud8otg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
